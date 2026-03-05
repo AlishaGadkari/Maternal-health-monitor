@@ -1,0 +1,6 @@
+age,bmi,blood_pressure,glucose,insulin,gestational_diabetes
+25,22,80,120,85,0
+30,28,85,150,130,1
+35,32,90,170,150,1
+22,19,75,110,80,0
+29,26,88,140,120,1
